@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>internetbanking-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
-properties>
+<properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
                   http://15.206.212.156:9000/
