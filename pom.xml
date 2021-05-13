@@ -10,8 +10,10 @@
 <properties><sonar.host.url>
                   http://15.206.212.156:9000/
                 </sonar.host.url>
-    <sonar.login>admin</sonar.login>
-      <sonar.password>admin</sonar.password>
+  <!--  <sonar.login>admin</sonar.login>
+      <sonar.password>admin</sonar.password> -->
+   <sonar.login>b4d69864450db9418ae4d76222db524d755cecc4</sonar.login>
+  
             </properties>
 
   <dependencies>
