@@ -24,6 +24,19 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <distributionManagement>
+  <repository>
+   <id>nexus</id>
+   <name>atmproject release</name>
+   <url>http://13.235.70.102:8081/repository/atmproject-snapshot/</url>
+  </repository>
+  <snapshotRepository>
+  <id>nexus</id>
+  <name>atmproject snapshot</name>
+  <url>http://13.235.70.102:8081/repository/atmproject-snapshot/</url>
+  </snapshotRepository>
+  </distributionManagement>
   <build>
     <finalName>internetbanking-webapp</finalName>
   </build>
