@@ -7,13 +7,18 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>internetbanking-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
-<sonar.host.url> 
-	http://52.66.246.111:9000/
-	</sonar.host.url>  
+		<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<sonar.host.url>
+			http://3.7.65.249:9000/
+		</sonar.host.url>  
 <!-- 		<sonar.login>admin</sonar.login> -->
 <!-- 		<sonar.password>admin</sonar.password> -->
 	<sonar.login>5f1050863aac751e8887aea429cbd511a8fe297f</sonar.login>
-  <dependencies>
+		
+	</properties>
+	
+	  <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
