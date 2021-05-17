@@ -10,11 +10,11 @@
 		<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<sonar.host.url>
-			http://13.233.136.196:9000/
+			http://3.108.52.207:9000/
 		</sonar.host.url>  
 <!-- 		<sonar.login>admin</sonar.login> -->
 <!-- 		<sonar.password>admin</sonar.password> -->
-	<sonar.login>795f661b87d64d340dca60761796c6a16d7572e9</sonar.login>
+	<sonar.login>43d597a2369f74c8f4d3ef194bb617990ce41c09</sonar.login>
 		
 	</properties>
 	
