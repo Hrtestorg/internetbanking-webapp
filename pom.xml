@@ -14,7 +14,7 @@
 		</sonar.host.url>  
 <!-- 		<sonar.login>admin</sonar.login> -->
 <!-- 		<sonar.password>admin</sonar.password> -->
-	<sonar.login>5f1050863aac751e8887aea429cbd511a8fe297f</sonar.login>
+	<sonar.login>795f661b87d64d340dca60761796c6a16d7572e9</sonar.login>
 		
 	</properties>
 	
